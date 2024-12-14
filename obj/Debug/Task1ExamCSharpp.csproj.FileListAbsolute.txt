@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Task1ExamCSharpp\bin\Debug\Task1ExamCSharpp.exe.config
+C:\Users\ASUS\source\repos\Task1ExamCSharpp\bin\Debug\Task1ExamCSharpp.exe
+C:\Users\ASUS\source\repos\Task1ExamCSharpp\bin\Debug\Task1ExamCSharpp.pdb
+C:\Users\ASUS\source\repos\Task1ExamCSharpp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\Task1ExamCSharpp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\Task1ExamCSharpp\obj\Debug\Task1ExamCSharpp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Task1ExamCSharpp\obj\Debug\Task1ExamCSharpp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Task1ExamCSharpp\obj\Debug\Task1Exa.1500ABF9.Up2Date
+C:\Users\ASUS\source\repos\Task1ExamCSharpp\obj\Debug\Task1ExamCSharpp.exe
+C:\Users\ASUS\source\repos\Task1ExamCSharpp\obj\Debug\Task1ExamCSharpp.pdb
